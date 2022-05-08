@@ -1,0 +1,5 @@
+
+type Query {
+  getArray(page: Int): [Int!]!
+}
+
